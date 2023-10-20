@@ -1,5 +1,6 @@
 #pragma once
 
+#include <cstddef>
 #include <cuda_runtime.h>
 #include "cub/util_allocator.cuh"
 
